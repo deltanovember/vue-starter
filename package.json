@@ -1,0 +1,28 @@
+{
+  "name": "vue-starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/deltanovember/vue-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/deltanovember/vue-starter/issues"
+  },
+  "homepage": "https://github.com/deltanovember/vue-starter#readme",
+  "devDependencies": {
+    "css-loader": "^1.0.0",
+    "ts-loader": "^4.4.2",
+    "typescript": "^3.0.1",
+    "vue": "^2.5.17",
+    "vue-loader": "^15.2.7",
+    "vue-template-compiler": "^2.5.17",
+    "webpack": "^4.16.5"
+  }
+}
